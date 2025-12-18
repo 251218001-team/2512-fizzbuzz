@@ -1,1 +1,5 @@
-# 2512-fizzbuzz
+# 2512 Fizzbuzz
+
+## Index
+
+- fizzbuzz
