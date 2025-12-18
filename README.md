@@ -1,4 +1,4 @@
-# 2512 Fizzbuzz
+# 2512 fizzbuzz
 
 ## Index
 
